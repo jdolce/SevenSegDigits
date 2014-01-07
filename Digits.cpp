@@ -1,3 +1,9 @@
+/*
+  Digits.cpp - Library for showing digits on a 7 segmented display using shift resistors.
+  Created by Julian Dolce
+*/
+
+
 #include "Digits.h"
 
 Digits::Digits(uint8_t dataPin, uint8_t clockPin, uint8_t latchPin)
