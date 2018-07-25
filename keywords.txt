@@ -1,2 +1,2 @@
-Digits   KEYWORD1
-show     KEYWORD2
+Digits	KEYWORD1
+show	KEYWORD2
